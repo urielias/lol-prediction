@@ -1,0 +1,6 @@
+{
+    "num_layers": 4,
+    "layer_size": 500,
+    "activation": "relu",
+    "learning_rate": 0.005
+}
